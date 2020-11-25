@@ -2,11 +2,11 @@ from PIL import Image, ImageDraw
 import math
 
 print("Input path to file:")
-#f = input()
+f = input()
 print("Input path to save picture:")
-#p = input()
-f = "C:\\Users\\VivoBook\\Desktop\\KGMlab2\\DS5.txt"
-p = "C:\\Users\\VivoBook\\Desktop\\KGMlab2\\test.png"
+p = input()
+# f = "C:\\Users\\VivoBook\\Desktop\\KGMlab2\\DS5.txt"
+# p = "C:\\Users\\VivoBook\\Desktop\\KGMlab2\\test.png"
 
 #n = 5
 #angle = 10*(n+1)*pi/180 = 10*6*pi/180
